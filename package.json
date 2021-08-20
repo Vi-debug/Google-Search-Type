@@ -6,6 +6,7 @@
 	"engines": {
 		"vscode": "^1.59.0"
 	},
+	"publisher": "FushiArt",
 	"icon": "/assets/logo.png",
 	"categories": [
 		"Other"
