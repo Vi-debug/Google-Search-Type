@@ -7,6 +7,10 @@
 		"vscode": "^1.59.0"
 	},
 	"publisher": "FushiArt",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Vi-debug/Google-It"
+	},
 	"icon": "/assets/logo.png",
 	"categories": [
 		"Other"
