@@ -1,6 +1,6 @@
 {
-	"name": "google-search-type",
-	"displayName": "Google Search (Type)",
+	"name": "google-search",
+	"displayName": "Google Search",
 	"description": "Quick searching google tool inside your vscode",
 	"version": "1.0.1",
 	"engines": {
