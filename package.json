@@ -1,17 +1,17 @@
 {
-	"name": "google-it",
-	"displayName": "Google It",
+	"name": "google-search-type",
+	"displayName": "Google Search (Type)",
 	"description": "Quick searching google tool inside your vscode",
 	"version": "1.0.1",
 	"engines": {
 		"vscode": "^1.59.0"
 	},
+	"icon": "assets/logo.png",
 	"publisher": "FushiArt",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/Vi-debug/Google-It"
 	},
-	"icon": "/assets/logo.png",
 	"categories": [
 		"Other"
 	],
@@ -23,8 +23,7 @@
 		"keybindings": [
 			{
 				"command": "google-it.search",
-				"key": "ctrl+;",
-				"when": "editorTextFocus"
+				"key": "ctrl+'"
 			}
 		]
 	},
